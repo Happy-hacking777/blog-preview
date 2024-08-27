@@ -93,6 +93,7 @@ main {
     border-radius: 15px;
     border: 1px solid #111111;
     box-shadow: 1cap  1cap rgba(0, 0, 0, 1); 
+    cursor: pointer; 
 }
 
 img {
